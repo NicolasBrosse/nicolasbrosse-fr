@@ -1,0 +1,7 @@
+[[items]]
+title = "Github"
+image = "images/github.jpg"
+thumb = "images/github-thumb.jpg"
+alt = "logo Github"
+description = "C'est ici que je stocke mon code et apprends à me servir de git."
+url = "https://github.com/NicolasBrosse"

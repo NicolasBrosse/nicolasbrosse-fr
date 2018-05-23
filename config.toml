@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://nicolasbrosse.fr/blog/"
+languageCode = "fr-fr"
+title = "Nicolas Brosse - Pour commencer"
+theme = "hugrid"
+
+[params]
+    # Meta
+    title = "Nicolas Brosse"
+    subtitle = "Les endroits où me trouver et les infos me concernant."
+    author = "Nicolas Brosse"
+    description = "Les autres endroits où me trouver sur internet."
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Allez voir"
+
+    # Footer text
+    footertext = "Thème crée par [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) et [aerohub](https://github.com/aerohub)"
