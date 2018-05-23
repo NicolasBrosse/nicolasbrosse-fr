@@ -9,4 +9,4 @@ Le thème du site est considéré comme un sous-module git ([submodule](https://
 
 Ainsi, lorsque le thème sera mis à jour par son auteur principal, il suffira de l'upgrader sans que celui-ci ne vienne perturber le fonctionnement de git localement.
 
-Hugo permet de surcharger les thèmes importés. Il n'est donc pas nécessaire de toucher aux fichiers source du thème importé.
+Hugo permet de surcharger les thèmes importés. Il n'est donc pas nécessaire d'éditer les fichiers source du thème importé.
