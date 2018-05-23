@@ -1,4 +1,11 @@
 [[items]]
+title = "Ce que je vois"
+image = "images/cqjv-logo.png"
+thumb = "images/cqjv-logo-thumb.png"
+alt = "logo du site Cequejevois"
+description = "Cequejevois, c'est mon blog personnel."
+url = "https://cequejevois.net/blog/"
+[[items]]
 title = "Github"
 image = "images/github.jpg"
 thumb = "images/github-thumb.jpg"
