@@ -4,8 +4,8 @@
 			<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Nicolas Brosse</title>
-		<meta name="description" content="" />
+		<title>Nicolas Brosse - Pour commencer</title>
+		<meta name="description" content="Les autres endroits où me trouver sur internet." />
 		<meta name="author" content="Nicolas Brosse" />
 		<meta name="generator" content="Hugo 0.40.3" />
 		<style>
@@ -24,26 +24,26 @@
 	<body>
 		<div class="container">	
 							<header class="clearfix">
-				<h1>Nicolas Brosse<span>Où me trouver.</span></h1>
+				<h1>Nicolas Brosse<span>Les endroits où me trouver et les infos me concernant.</span></h1>
 			</header>
 			<div class="main">
 				<ul id="og-grid" class="og-grid">
 					
 					<li>
-						<a href="https://github.com/NicolasBrosse" data-largesrc="images/github.jpg" data-title="Github" data-description="A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on." data-buttontext="">
-							<img src="images/github-thumb.jpg" alt="logo Github"/>
+						<a href="https://cequejevois.net/blog/" data-largesrc="images/cqjv-logo.png" data-title="Ce que je vois" data-description="Cequejevois, c&#39;est mon blog personnel." data-buttontext="">
+							<img src="images/cqjv-logo-thumb.png" alt="logo du site Cequejevois"/>
 						</a>
 					</li>
 					
 					<li>
-						<a href="https://github.com/NicolasBrosse" data-largesrc="images/github.jpg" data-title="Github" data-description="A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on." data-buttontext="">
+						<a href="https://github.com/NicolasBrosse" data-largesrc="images/github.jpg" data-title="Github" data-description="C&#39;est ici que je stocke mon code et apprends à me servir de git." data-buttontext="">
 							<img src="images/github-thumb.jpg" alt="logo Github"/>
 						</a>
 					</li>
 					
 				</ul>
 				<footer>			
-	Made by <a href="http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/">Codrops</a>, <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/aerohub">me</a>
+	Thème crée avec le <a href="http://gohugo.io">générateur de site statique Hugo</a>, <a href="http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/">Codrops</a> et <a href="https://github.com/aerohub">aerohub</a>
 </footer>
 			</div>
 		</div>
@@ -318,7 +318,7 @@
 					create : function() {
 						this.$title = $( '<h3></h3>' );
 						this.$description = $( '<p></p>' );
-						this.$href = $( '<a href="#" target="_blank">Get the theme</a>' );
+						this.$href = $( '<a href="#" target="_blank">Allez voir</a>' );
 						this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
 						this.$loading = $( '<div class="og-loading"></div>' );
 						this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
@@ -357,7 +357,7 @@
 						this.$title.html( eldata.title );
 						this.$description.html( eldata.description );
 						if(eldata.buttontext) this.$href.text(eldata.buttontext);
-						else this.$href.text("Get the theme")
+						else this.$href.text("Allez voir")
 
 						if (eldata.href) {
 							this.$href.attr( 'href', eldata.href );

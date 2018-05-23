@@ -2,6 +2,7 @@ baseURL = "https://nicolasbrosse.fr/blog/"
 languageCode = "fr-fr"
 title = "Nicolas Brosse - Pour commencer"
 theme = "hugrid"
+disableKinds = ["sitemap"]
 
 [params]
     # Meta
