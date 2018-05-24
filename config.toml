@@ -1,9 +1,10 @@
 baseURL = "https://nicolasbrosse.fr/blog/"
-languageCode = "fr-fr"
+languageCode = "fr-FR"
 title = "Nicolas Brosse - Pour commencer"
 theme = "hugrid"
 disableKinds = ["sitemap"]
 enableRobotsTXT = "true"
+defaultContentLanguage = "fr"
 
 [params]
     # Meta
