@@ -20,4 +20,4 @@ defaultContentLanguage = "fr"
     buttontext = "Allez voir"
 
     # Footer text
-    footertext = "Thème crée avec le [générateur de site statique Hugo](http://gohugo.io), [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) et [aerohub](https://github.com/aerohub)"
+    footertext = "Site crée avec le [générateur de site statique Hugo](http://gohugo.io). Thème par [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) et [aerohub](https://github.com/aerohub)"
