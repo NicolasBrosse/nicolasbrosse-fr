@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Nicolas Brosse - Pour commencer"
 theme = "hugrid"
 disableKinds = ["sitemap"]
+enableRobotsTXT = "true"
 
 [params]
     # Meta
