@@ -6,6 +6,13 @@ alt = "logo du site SEOcolo"
 description = "Il s'agit de mon activité professionnelle de référencement de sites web à vocation écologique, sociale ou solidaire. Je suis aussi webmaster."
 url = "https://seocolo.fr/"
 [[items]]
+title = "Linkedin"
+image = "images/linkedin.png"
+thumb = "images/linkedin-thumb.png"
+alt = "logo du site linkedin"
+description = "Mon profil sur Linkedin."
+url = "https://www.linkedin.com/in/brossenicolas/"
+[[items]]
 title = "Ce que je vois"
 image = "images/cqjv-logo.png"
 thumb = "images/cqjv-logo-thumb.png"
