@@ -1,3 +1,4 @@
 deploy
 
 public/
+.DS_Store
